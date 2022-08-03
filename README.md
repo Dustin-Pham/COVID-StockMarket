@@ -1,6 +1,6 @@
 # COVID-StockMarket
 
-#School Project
+## School Project
 
 This was a school project incorporating the the software Stata. 
 
